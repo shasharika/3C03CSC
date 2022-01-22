@@ -1,5 +1,5 @@
 body{
-  background-color:lightblue;
+  background:#0E4792;
     }
 h1 {
   color:darkblue;
